@@ -1,6 +1,9 @@
 # Pokemon_GAN
 DCGAN for pokemons generating
 
+![alt text](https://github.com/andrey4ru/Pokemon_GAN/blob/master/GAN_models/EXTENDED_200_EPOCH_64_ALLDATA/weights/test_pokemon_1000.png)
+
+
 How to use:
 
 1. Unzip dataset
